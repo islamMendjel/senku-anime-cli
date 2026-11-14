@@ -20,5 +20,8 @@ Inspired by the Unix philosophy of [`ani-cli`](https://github.com/pystardust/ani
 ```bash
 # Search and stream interactively (defaults to 1080p + autoplay)
 senku-anime-cli "One Piece"
-
+.
+.
+.
+```
 To Add Later ....
