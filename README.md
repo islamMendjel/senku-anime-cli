@@ -28,6 +28,7 @@
 
   :: Portal Engine Online — 10,000,000,000% Scientific Precision ::
   [TERM: xterm-kitty detected]
+
 ```
 
 **Lightning-fast, zero-bloat Arabic-subbed anime CLI — stream & download directly from your terminal.**
