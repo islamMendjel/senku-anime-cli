@@ -10,6 +10,7 @@
 ![senku-anime-cli Demo](preview.gif)
 
 ```
+
         .---.        .---.
        /     \  __  /     \     senku-anime-cli (sac) v1.8.0
       / /     \(  )/     \ \    ───────────────────────────────────────────────
@@ -22,6 +23,7 @@
                ''``
 
   :: Portal Engine Online — 10,000,000,000% Scientific Precision :: [TERM: xterm-kitty detected]
+
 ```
 
 **Lightning-fast, zero-bloat Arabic-subbed anime CLI — stream & download directly from your terminal.**
