@@ -8,11 +8,7 @@
 [![Version](https://img.shields.io/badge/version-1.8.0-blue?style=for-the-badge)](Cargo.toml)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-PKGBUILD-1793D1?style=for-the-badge&logo=arch-linux)](PKGBUILD)
 
----
-
 ![senku-anime-cli demo](preview.gif)
-
----
 
 
 ```
@@ -28,8 +24,6 @@
                ''``
 
 ```
-
----
 
 **Lightning-fast, zero-bloat Arabic-subbed anime CLI — stream & download directly from your terminal.**
 
