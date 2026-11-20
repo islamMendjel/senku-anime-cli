@@ -11,17 +11,23 @@
 
 ```
         .---.        .---.
-       /     \  __  /     \     senku-anime-cli (sac) v1.8.0
-      / /     \(  )/     \ \    ───────────────────────────────────────────────
-     //////   ' \/ `   \\\\\    "Listen Morty—*burp*—I turned an anime scraper
-    //// / // :    : \\ \ \\\\  into a zero-bloat Rust portal gun. 10 billion
-   // /   /  /`    '\  \   \ \\ percent pure Arabic subs. Zero telemetry."
+       /     \  __  /     \
+      / /     \(  )/     \ \
+     //////   ' \/ `   \\\\\\
+    //// / // :    : \\ \ \\\\
+   // /   /  /`    '\  \   \ \\
   //          //..\\          \\
          ====UU====UU====
              '//||\\`
                ''``
 
-  :: Portal Engine Online — 10,000,000,000% Scientific Precision :: [TERM: xterm-kitty detected]
+  senku-anime-cli (sac) v1.8.0
+  "Listen Morty—*burp*—I turned an anime scraper
+   into a zero-bloat Rust portal gun. 10 billion
+   percent pure Arabic subs. Zero telemetry."
+
+  :: Portal Engine Online — 10,000,000,000% Scientific Precision ::
+  [TERM: xterm-kitty detected]
 ```
 
 **Lightning-fast, zero-bloat Arabic-subbed anime CLI — stream & download directly from your terminal.**
